@@ -34,3 +34,11 @@ Zhang, S., Guo, B., Dong, A., He, J., Xu, Z. and Chen, S.X. (2017) Cautionary Ta
 
 https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2017.0457
 
+https://www.epa.gov/sites/production/files/2014-05/documents/zell-aqi.pdf
+
+https://blog.jupyter.org/interactive-gis-in-jupyter-with-ipyleaflet-52f9657fa7a
+
+https://aqicn.org/city/beijing/
+
+https://ipyleaflet.readthedocs.io/en/latest/api_reference/marker.html
+
